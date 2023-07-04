@@ -2,6 +2,10 @@
 
 关于**2023年CS保研预推免通知公告**的汇总。欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？（本仓库将随各校通知的发布实时更新，具体形式可参见往年：[CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)、[CSYuTuiMian2021](https://github.com/RookieJunChen/CSYuTuiMian2021)、[CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020)。预祝大家夏令营成功上岸！
 
+# 西安电子科技大学
+
+【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
+
 # 致谢
 
 **预推免报名仓库主要由以下人员维护。感谢大家的支持！**
@@ -9,11 +13,6 @@
 2023: [@yfyeung](https://github.com/yfyeung)
 
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
-
-# 西安电子科技大学
-
-【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
-
 
 # CSLabInfo2023
 
