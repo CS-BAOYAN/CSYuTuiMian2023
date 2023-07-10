@@ -24,7 +24,7 @@
 
 **预推免报名仓库主要由以下人员维护。感谢大家的支持！**
 
-2023: [@yfyeung](https://github.com/yfyeung)
+2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)
 
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
