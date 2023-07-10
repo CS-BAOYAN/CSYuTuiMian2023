@@ -4,6 +4,10 @@
 
 另附[【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)，请使用**加入了绿群的QQ号登陆以查看文档，无须申请权限**。
 
+# 中国科学技术大学
+
+【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
+
 # 西安电子科技大学
 
 【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
