@@ -32,6 +32,8 @@
 
 【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
 
+【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
+
 # 苏州大学
 
 【报名截止：2023.9.6】[计算机科学与技术学院 第二批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
