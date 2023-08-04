@@ -42,6 +42,10 @@
 
 【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
 
+# 北京科技大学
+
+【报名截止：2023.8.16】[计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)
+
 # 苏州大学
 
 【报名截止：2023.9.6】[计算机科学与技术学院 第二批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
