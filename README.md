@@ -20,6 +20,10 @@
 
 ~~【报名截止：2023.7.18】[计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
+# 鹏城实验室
+
+【报名截止：2023.8.10】[科创营](http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=8f9c1d3ffa094a23842b8c422fbece97&xxlm=04)
+
 # 天津大学
 
 【报名截止：2023.9.20】[天津大学2024级研究生招生推免系统](http://yzb.tju.edu.cn/xwzx/zxxx/202307/t20230715_323276.htm)
