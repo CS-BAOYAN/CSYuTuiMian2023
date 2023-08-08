@@ -8,6 +8,8 @@
 
 【报名截止：2023.8.21】[清华大学2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yz.tsinghua.edu.cn/info/1024/2569.htm)
 
+【报名截止：2023.8.21】[清华大学深圳国际研究生院2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg)
+
 # 浙江大学
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm
