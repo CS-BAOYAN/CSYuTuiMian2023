@@ -16,6 +16,8 @@
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm
 
+【报名截止：2023.9.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0807/c21109a2787985/page.htm)
+
 # 中国科学技术大学
 
 【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
