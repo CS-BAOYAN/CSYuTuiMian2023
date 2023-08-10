@@ -70,6 +70,10 @@
 【报名截止：2023.8.13】[计算机科学与技术学院 第一批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
 2023.8.20
 
+# 西湖大学
+
+【报名截止：2023.8.28】[西湖大学2024年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202308/t20230808_30669.shtml)
+
 # 西南财经大学
 
 【报名截止：2023.9.5】[计算机与人工智能学院](https://yz.swufe.edu.cn/chaxun/yzb/tms/2024/02jiuyue/01xyxz/011.pdf)
