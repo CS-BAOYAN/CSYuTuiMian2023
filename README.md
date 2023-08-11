@@ -24,7 +24,6 @@
 
 【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
 
-
 # 中国科学技术大学
 
 【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
@@ -93,7 +92,7 @@
 
 **预推免报名仓库主要由以下人员维护。感谢大家的支持！**
 
-2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)
+2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)、[@shannany0606](https://github.com/shannany0606)
 
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
