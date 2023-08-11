@@ -16,7 +16,14 @@
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm
 
+【报名截止：2023.9.16】[软件学院](http://www.cst.zju.edu.cn/2023/0810/c32178a2788697/page.htm)
+
+【报名截止：2023.9.15】[工程师学院](https://pi.zju.edu.cn/2023/0809/c67026a2788673/page.htm)
+
 【报名截止：2023.9.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0807/c21109a2787985/page.htm)
+
+【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
+
 
 # 中国科学技术大学
 
