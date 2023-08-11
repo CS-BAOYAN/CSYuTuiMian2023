@@ -10,6 +10,8 @@
 
 【报名截止：2023.8.21】[清华大学深圳国际研究生院2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg)
 
+【报名截止：2023.8.21】[清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
+
 【报名截止：2023.8.21】[清华大学-鹏城实验室联合培养博士专项计划2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)
 
 # 浙江大学
