@@ -8,6 +8,8 @@
 
 【报名截止：2023.8.21】[清华大学2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yz.tsinghua.edu.cn/info/1024/2569.htm)
 
+【报名截止：2023.8.21】[清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
+
 【报名截止：2023.8.21】[清华大学深圳国际研究生院2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg)
 
 【报名截止：2023.8.21】[清华大学-鹏城实验室联合培养博士专项计划2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)
@@ -16,7 +18,13 @@
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm
 
+【报名截止：2023.9.16】[软件学院](http://www.cst.zju.edu.cn/2023/0810/c32178a2788697/page.htm)
+
+【报名截止：2023.9.15】[工程师学院](https://pi.zju.edu.cn/2023/0809/c67026a2788673/page.htm)
+
 【报名截止：2023.9.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0807/c21109a2787985/page.htm)
+
+【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
 
 # 中国科学技术大学
 
@@ -86,7 +94,7 @@
 
 **预推免报名仓库主要由以下人员维护。感谢大家的支持！**
 
-2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)
+2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)、[@shannany0606](https://github.com/shannany0606)
 
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
