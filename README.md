@@ -56,6 +56,10 @@
 
 【报名截止：N/A】[关于开通大连理工大学2024年接收推荐免试研究生预报名系统的通知](http://gs.dlut.edu.cn/info/1173/13435.htm)
 
+# 国防科技大学
+
+【报名截止：2023.9.22】[国防科技大学接收2024级地方院校推荐免试硕士研究生（含直博生）工作方案](https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13138)
+
 # 西安电子科技大学
 
 【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
