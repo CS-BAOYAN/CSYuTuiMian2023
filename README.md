@@ -6,7 +6,7 @@
 
 # 清华大学
 
-【报名截止：2023.8.21】[清华大学2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yz.tsinghua.edu.cn/info/1024/2569.htm)
+> https://yz.tsinghua.edu.cn/info/1024/2569.htm
 
 【报名截止：2023.8.21】[清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
 
@@ -63,6 +63,8 @@
 【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
 
 # 北京科技大学
+
+> https://yzxc.ustb.edu.cn/xlytm/hdap/5508c99515ee49fb871c39a046944a26.htm
 
 【报名截止：2023.8.16】[计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)
 
