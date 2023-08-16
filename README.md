@@ -6,7 +6,9 @@
 
 # 清华大学
 
-【报名截止：2023.8.21】[清华大学2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yz.tsinghua.edu.cn/info/1024/2569.htm)
+> https://yz.tsinghua.edu.cn/info/1024/2569.htm
+
+【报名截止：2023.8.21】[清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
 
 【报名截止：2023.8.21】[清华大学深圳国际研究生院2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg)
 
@@ -16,7 +18,13 @@
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm
 
+【报名截止：2023.9.16】[软件学院](http://www.cst.zju.edu.cn/2023/0810/c32178a2788697/page.htm)
+
+【报名截止：2023.9.15】[工程师学院](https://pi.zju.edu.cn/2023/0809/c67026a2788673/page.htm)
+
 【报名截止：2023.9.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0807/c21109a2787985/page.htm)
+
+【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
 
 # 中国科学技术大学
 
@@ -48,6 +56,10 @@
 
 【报名截止：N/A】[关于开通大连理工大学2024年接收推荐免试研究生预报名系统的通知](http://gs.dlut.edu.cn/info/1173/13435.htm)
 
+# 国防科技大学
+
+【报名截止：2023.9.22】[国防科技大学接收2024级地方院校推荐免试硕士研究生（含直博生）工作方案](https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13138)
+
 # 西安电子科技大学
 
 【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
@@ -55,6 +67,8 @@
 【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
 
 # 北京科技大学
+
+> https://yzxc.ustb.edu.cn/xlytm/hdap/5508c99515ee49fb871c39a046944a26.htm
 
 【报名截止：2023.8.16】[计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)
 
@@ -86,7 +100,7 @@
 
 **预推免报名仓库主要由以下人员维护。感谢大家的支持！**
 
-2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)
+2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)、[@shannany0606](https://github.com/shannany0606)
 
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
