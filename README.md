@@ -34,6 +34,8 @@
 
 【报名截止：2023.8.27】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
 
+【报名截止：2023.8.27】[软件学院](https://software.nju.edu.cn//tzgg/20230809/i249554.html)
+
 # 中国科学院
 
 【报名截止：N/A】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202308/t20230807_6855143.html)
