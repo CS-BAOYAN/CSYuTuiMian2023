@@ -72,7 +72,7 @@
 
 > https://yzxc.ustb.edu.cn/xlytm/hdap/5508c99515ee49fb871c39a046944a26.htm
 
-【报名截止：2023.8.16】[计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)
+~~【报名截止：2023.8.16】[计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)~~
 
 # 苏州大学
 
