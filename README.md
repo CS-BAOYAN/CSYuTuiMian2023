@@ -40,6 +40,10 @@
 
 【报名截止：N/A】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202308/t20230807_6855143.html)
 
+【报名截止：N/A】[空天信息创新研究院 空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
+
+【报名截止：N/A】[空天信息创新研究院 微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
+
 # 哈尔滨工业大学
 
 【报名截止：2023.9.17】[深圳 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)
