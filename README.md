@@ -14,6 +14,10 @@
 
 【报名截止：2023.8.21】[清华大学-鹏城实验室联合培养博士专项计划2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)
 
+# 上海交通大学
+
+【报名截止：2023.8.22】[交大密西根学院工学类专业2024年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-08-18/140682/)
+
 # 浙江大学
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm
