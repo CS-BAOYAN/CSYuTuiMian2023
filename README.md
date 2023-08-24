@@ -100,6 +100,10 @@
 
 【报名截止：2023.8.28】[西湖大学2024年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202308/t20230808_30669.shtml)
 
+# 南方科技大学
+
+【报名截止：N/A】[南科大刘泉影课题组NCC lab招收保研硕士生](https://mp.weixin.qq.com/s/P82jMvMadH59DaDlD-077w)
+
 # 西南财经大学
 
 【报名截止：2023.9.5】[计算机与人工智能学院](https://yz.swufe.edu.cn/chaxun/yzb/tms/2024/02jiuyue/01xyxz/011.pdf)
