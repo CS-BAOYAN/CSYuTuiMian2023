@@ -104,6 +104,10 @@
 
 【报名截止：N/A】[南科大刘泉影课题组NCC lab招收保研硕士生](https://mp.weixin.qq.com/s/P82jMvMadH59DaDlD-077w)
 
+# 上海科技大学
+
+【报名截止：2023.9.20】[临港实验室2023年“身‘临’其境”大学生开放日](https://mp.weixin.qq.com/s/qIRE-inULLPf4H7DLm4e8Q)
+
 # 西南财经大学
 
 【报名截止：2023.9.5】[计算机与人工智能学院](https://yz.swufe.edu.cn/chaxun/yzb/tms/2024/02jiuyue/01xyxz/011.pdf)
