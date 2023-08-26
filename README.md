@@ -102,6 +102,8 @@
 
 # 南方科技大学
 
+【报名截止：2023.9.6】[南方科技大学计算机科学与工程系 2024年接收推荐免试研究生报名通知](https://cse.sustech.edu.cn/cn/news/view/id/1003)
+
 【报名截止：N/A】[南科大刘泉影课题组NCC lab招收保研硕士生](https://mp.weixin.qq.com/s/P82jMvMadH59DaDlD-077w)
 
 # 上海科技大学
