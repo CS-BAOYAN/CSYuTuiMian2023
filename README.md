@@ -54,6 +54,10 @@
 
 【报名截止：N/A】[空天信息创新研究院 微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
 
+# 同济大学
+
+【报名截止：2023.9.23】[同济大学2024年接收推荐免试研究生(含直接攻博)预报名通知](https://yz.tongji.edu.cn/info/1010/3228.htm)
+
 # 哈尔滨工业大学
 
 【报名截止：2023.9.17】[深圳 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)
