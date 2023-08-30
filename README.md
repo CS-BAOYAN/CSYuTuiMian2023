@@ -44,9 +44,11 @@
 
 【报名截止：2023.9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202308/t20230817_6862206.html)
 
-【报名截止：2023.9.3】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202308/t20230817_6863377.html)
+【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
 
 【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)
+
+【报名截止：2023.9.3】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202308/t20230817_6863377.html)
 
 【报名截止：N/A】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202308/t20230807_6855143.html)
 
