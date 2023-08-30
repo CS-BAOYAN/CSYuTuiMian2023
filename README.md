@@ -32,9 +32,9 @@
 
 # 南京大学
 
-【报名截止：2023.8.27】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
+~~【报名截止：2023.8.27】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)~~
 
-【报名截止：2023.8.27】[软件学院](https://software.nju.edu.cn//tzgg/20230809/i249554.html)
+~~【报名截止：2023.8.27】[软件学院](https://software.nju.edu.cn//tzgg/20230809/i249554.html)~~
 
 # 中国科学技术大学
 
@@ -127,7 +127,7 @@
 
 # 西湖大学
 
-【报名截止：2023.8.28】[西湖大学2024年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202308/t20230808_30669.shtml)
+~~【报名截止：2023.8.28】[西湖大学2024年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202308/t20230808_30669.shtml)~~
 
 # 南方科技大学
 
