@@ -48,6 +48,9 @@
 
 【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)
 
+【报名截止：2023.9.5】[计算技术研究所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202308/t20230830_6868797.html)
+2023.9.14-2023.9.15
+
 【报名截止：2023.9.3】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202308/t20230817_6863377.html)
 
 【报名截止：N/A】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202308/t20230807_6855143.html)
