@@ -56,6 +56,10 @@
 
 【报名截止：N/A】[空天信息创新研究院 微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
 
+# 鹏城实验室
+
+~~【报名截止：2023.8.10】[科创营](http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=8f9c1d3ffa094a23842b8c422fbece97&xxlm=04)~~
+
 # 同济大学
 
 【报名截止：2023.9.23】[同济大学2024年接收推荐免试研究生(含直接攻博)预报名通知](https://yz.tongji.edu.cn/info/1010/3228.htm)
@@ -143,10 +147,6 @@
 # 中央音乐学院
 
 【报名截止：2023.9.22】[音乐人工智能与音乐信息科技系](https://mp.weixin.qq.com/s/nYaCANdtJ2aqUa0cPlcdkA)
-
-# 鹏城实验室
-
-~~【报名截止：2023.8.10】[科创营](http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=8f9c1d3ffa094a23842b8c422fbece97&xxlm=04)~~
 
 # 南京航空航天大学
 
