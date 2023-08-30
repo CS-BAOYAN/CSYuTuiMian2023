@@ -30,15 +30,15 @@
 
 【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
 
-# 中国科学技术大学
-
-【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
-
 # 南京大学
 
 【报名截止：2023.8.27】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
 
 【报名截止：2023.8.27】[软件学院](https://software.nju.edu.cn//tzgg/20230809/i249554.html)
+
+# 中国科学技术大学
+
+【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
 
 # 中国科学院
 
@@ -95,6 +95,8 @@
 【报名截止：2023.9.22】[国防科技大学接收2024级地方院校推荐免试硕士研究生（含直博生）工作方案](https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13138)
 
 # 西安电子科技大学
+
+【报名截止：2023.9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9261.htm)
 
 【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
 
