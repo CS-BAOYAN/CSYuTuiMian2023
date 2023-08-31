@@ -18,6 +18,10 @@
 
 ~~【报名截止：2023.8.22】[交大密西根学院工学类专业2024年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-08-18/140682/)~~
 
+# 复旦大学
+
+> https://gsao.fudan.edu.cn/d1/1a/c15014a512282/page.htm
+
 # 浙江大学
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm
