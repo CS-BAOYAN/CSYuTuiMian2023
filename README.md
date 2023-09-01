@@ -48,6 +48,8 @@
 
 【报名截止：2023.9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202308/t20230817_6862206.html)
 
+【报名截止：2023.9.24】[微小卫星创新研究院](http://www.microsate.ac.cn/yajsjy/sszsxx/202308/t20230817_6862157.html)
+
 【报名截止：2023.9.18】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202309/t20230901_6870166.html)
 
 【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
