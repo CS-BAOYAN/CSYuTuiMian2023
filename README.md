@@ -22,6 +22,8 @@
 
 > https://gsao.fudan.edu.cn/d1/1a/c15014a512282/page.htm
 
+【报名时间：2023.9.5-2023.9.10】[计算机学院](https://cs.fudan.edu.cn/d1/8d/c24257a512397/page.htm)
+
 # 浙江大学
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm
@@ -174,9 +176,6 @@
 # 南京航空航天大学
 
 【报名截止：2023.9.18】[计算机科学与技术学院/人工智能学院/软件学院](http://cs.nuaa.edu.cn/2023/0707/c10851a315084/page.htm)
-
-# 复旦大学
-【报名时间：2023.9.5-2023.9.15】[计算机学院](https://cs.fudan.edu.cn/d1/8d/c24257a512397/page.htm)
 
 # 致谢
 
