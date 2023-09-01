@@ -52,6 +52,9 @@
 
 【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
 
+【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)
+2023.9.20
+
 【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)
 
 【报名截止：2023.9.5】[计算技术研究所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202308/t20230830_6868797.html)
