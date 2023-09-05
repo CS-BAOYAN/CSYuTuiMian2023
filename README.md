@@ -22,6 +22,14 @@
 
 > https://gsao.fudan.edu.cn/d1/1a/c15014a512282/page.htm
 
+【报名时间：2023.9.5-2023.9.15】[大数据学院](https://sds.fudan.edu.cn/d2/0a/c17701a512522/page.htm)
+
+【报名时间：2023.9.5-2023.9.15】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/5057.htm)
+
+【报名时间：2023.9.5-2023.9.15】[工程与应用技术研究院](https://faet.fudan.edu.cn/d3/aa/c23815a512938/page.htm)
+
+【报名时间：2023.9.5-2023.9.15】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4455)
+
 【报名时间：2023.9.5-2023.9.10】[计算机学院](https://cs.fudan.edu.cn/d1/8d/c24257a512397/page.htm)
 
 # 浙江大学
