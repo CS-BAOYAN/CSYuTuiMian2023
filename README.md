@@ -22,6 +22,8 @@
 【报名截止：2023.9.8】[智能学院](https://sai.pku.edu.cn/info/1034/2830.htm)
 2023.9.14-2023.9.15
 
+【报名截止：2023.9.8】[工学院](https://www.coe.pku.edu.cn/announcements/college/12274.html)
+
 # 上海交通大学
 
 ~~【报名截止：2023.8.22】[交大密西根学院工学类专业2024年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-08-18/140682/)~~
