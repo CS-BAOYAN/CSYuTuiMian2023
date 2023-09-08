@@ -112,6 +112,10 @@
 
 ~~【报名截止：2023.7.18】[计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
+# 西安交通大学
+
+> https://yz.xjtu.edu.cn/info/1086/3851.htm
+
 # 华中科技大学
 
 【报名截止：N/A】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
