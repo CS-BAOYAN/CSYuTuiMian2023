@@ -16,19 +16,19 @@
 
 # 北京大学
 
-【报名截止：2023.9.8】[计算机学院](https://cs.pku.edu.cn/info/1023/4183.htm)
+~~【报名截止：2023.9.8】[计算机学院](https://cs.pku.edu.cn/info/1023/4183.htm)~~
 2023.9.14-2023.9.15
 
-【报名截止：2023.9.8】[智能学院](https://sai.pku.edu.cn/info/1034/2830.htm)
+~~【报名截止：2023.9.8】[智能学院](https://sai.pku.edu.cn/info/1034/2830.htm)~~
 2023.9.14-2023.9.15
 
-【报名截止：2023.9.8】[工学院](https://www.coe.pku.edu.cn/announcements/college/12274.html)
+~~【报名截止：2023.9.8】[工学院](https://www.coe.pku.edu.cn/announcements/college/12274.html)~~
 
-【报名截止：2023.9.8】[信息工程学院（深圳）](https://www.ece.pku.edu.cn/info/1026/2653.htm)
+~~【报名截止：2023.9.8】[信息工程学院（深圳）](https://www.ece.pku.edu.cn/info/1026/2653.htm)~~
 
-【报名截止：2023.9.8】[软件与微电子学院-直博](https://www.ss.pku.edu.cn/admission/admnotice/4494.html)
+~~【报名截止：2023.9.8】[软件与微电子学院-直博](https://www.ss.pku.edu.cn/admission/admnotice/4494.html)~~
 
-【报名截止：2023.9.8】[软件与微电子学院-直硕](https://www.ss.pku.edu.cn/admission/admnotice/4496.html)
+~~【报名截止：2023.9.8】[软件与微电子学院-直硕](https://www.ss.pku.edu.cn/admission/admnotice/4496.html)~~
 
 # 上海交通大学
 
@@ -68,9 +68,9 @@
 
 # 中国科学技术大学
 
-【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
-
 【报名截止：2023.9.15】[网络空间安全学院](http://cybersec.ustc.edu.cn/2023/0907/c23826a611551/page.htm)
+
+【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
 
 # 中国科学院
 
@@ -166,8 +166,6 @@
 
 【报名截止：2023.9.25】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/15929.htm)
 
-
-
 # 北京科技大学
 
 > https://yzxc.ustb.edu.cn/xlytm/hdap/5508c99515ee49fb871c39a046944a26.htm
@@ -176,7 +174,7 @@
 
 # 苏州大学
 
-【报名截止：2023.9.6】[计算机科学与技术学院 第二批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
+~~【报名截止：2023.9.6】[计算机科学与技术学院 第二批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)~~
 2023.9.13
 
 ~~【报名截止：2023.8.13】[计算机科学与技术学院 第一批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)~~
@@ -188,7 +186,7 @@
 
 # 南方科技大学
 
-【报名截止：2023.9.6】[南方科技大学计算机科学与工程系 2024年接收推荐免试研究生报名通知](https://cse.sustech.edu.cn/cn/news/view/id/1003)
+~~【报名截止：2023.9.6】[南方科技大学计算机科学与工程系 2024年接收推荐免试研究生报名通知](https://cse.sustech.edu.cn/cn/news/view/id/1003)~~
 
 【报名截止：N/A】[南科大刘泉影课题组NCC lab招收保研硕士生](https://mp.weixin.qq.com/s/P82jMvMadH59DaDlD-077w)
 
@@ -198,7 +196,7 @@
 
 # 西南财经大学
 
-【报名截止：2023.9.5】[计算机与人工智能学院](https://yz.swufe.edu.cn/chaxun/yzb/tms/2024/02jiuyue/01xyxz/011.pdf)
+~~【报名截止：2023.9.5】[计算机与人工智能学院](https://yz.swufe.edu.cn/chaxun/yzb/tms/2024/02jiuyue/01xyxz/011.pdf)~~
 
 # 南京理工大学
 
