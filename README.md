@@ -162,6 +162,10 @@
 
 【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
 
+【报名截止：2023.9.25】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/15929.htm)
+
+
+
 # 北京科技大学
 
 > https://yzxc.ustb.edu.cn/xlytm/hdap/5508c99515ee49fb871c39a046944a26.htm
