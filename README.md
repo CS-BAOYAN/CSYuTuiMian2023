@@ -208,6 +208,10 @@
 ~~【报名截止：2023.8.13】[计算机科学与技术学院 第一批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)~~
 2023.8.20
 
+# 郑州大学
+
+【报名截止：2023.9.24】[网络空间安全学院](http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec8878f9f6f018a78ade81203fe)
+
 # 西湖大学
 
 ~~【报名截止：2023.8.28】[西湖大学2024年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202308/t20230808_30669.shtml)~~
