@@ -87,6 +87,8 @@
 
 【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)
 
+【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
+
 【报名截止：N/A】[空天信息创新研究院 空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
 
 【报名截止：N/A】[空天信息创新研究院 微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
