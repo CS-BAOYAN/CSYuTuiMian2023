@@ -172,6 +172,10 @@
 
 【报名截止：2023.9.15】[天津大学智能与计算学部](http://cic.tju.edu.cn/info/1041/4613.htm) 硕士2023.9.15截止 博士2023.9.20截止
 
+# 兰州大学
+
+【报名截止：N/A】[兰州大学2024年推免生预报名正在火热进行中！](https://yoyo000.github.io/images/NJU-3DV-2023.pdf)
+
 # 国防科技大学
 
 【报名截止：2023.9.22】[国防科技大学接收2024级地方院校推荐免试硕士研究生（含直博生）工作方案](https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13138)
