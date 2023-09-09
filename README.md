@@ -214,6 +214,10 @@
 ~~【报名截止：2023.8.13】[计算机科学与技术学院 第一批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)~~
 2023.8.20
 
+# 上海大学
+
+【报名截止：2023.9.25】[上海大学2024年接收推荐免试攻读研究生(含直博生)预报名通知](https://mp.weixin.qq.com/s/wS8-O23oJq_BvA2kxE7J5w)
+
 # 郑州大学
 
 【报名截止：2023.9.24】[网络空间安全学院](http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec8878f9f6f018a78ade81203fe)
