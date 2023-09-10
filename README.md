@@ -48,7 +48,7 @@
 
 【报名截止：2023.9.15】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4455)
 
-【报名截止：2023.9.10】[计算机学院](https://cs.fudan.edu.cn/d1/8d/c24257a512397/page.htm)
+~~【报名截止：2023.9.10】[计算机学院](https://cs.fudan.edu.cn/d1/8d/c24257a512397/page.htm)~~
 
 # 浙江大学
 
