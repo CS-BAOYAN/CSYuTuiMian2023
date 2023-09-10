@@ -62,6 +62,10 @@
 
 【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
 
+【报名截止：2023.9.15】[控制科学与工程学院](http://www.cse.zju.edu.cn/2023/0809/c39336a2788586/page.htm)
+
+【报名截止：2023.9.15】[浙江大学国际联合商学院-数据科学与工程项目](https://zibs.zju.edu.cn/article/zibs-2024-graduate-admissions.html)
+
 # 南京大学
 
 ~~【报名截止：2023.8.27】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)~~
@@ -73,6 +77,8 @@
 【报名截止：2023.9.15】[网络空间安全学院](http://cybersec.ustc.edu.cn/2023/0907/c23826a611551/page.htm)
 
 【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
+
+【报名截止：2023.9.21】[信息科学技术学院自动化系](https://auto.ustc.edu.cn/2023/0908/c26085a611629/page.htm)
 
 # 中国科学院
 
@@ -87,7 +93,7 @@
 【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)
 2023.9.20
 
-【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)
+~~【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)~~
 
 【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
@@ -246,7 +252,7 @@
 
 # 南京理工大学
 
-【报名截止：2023.9.10】[计算机科学与工程学院](https://cs.njust.edu.cn/df/4c/c1820a319308/page.htm)
+~~【报名截止：2023.9.10】[计算机科学与工程学院](https://cs.njust.edu.cn/df/4c/c1820a319308/page.htm)~~
 
 # 中央音乐学院
 
