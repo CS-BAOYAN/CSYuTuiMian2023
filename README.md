@@ -93,7 +93,7 @@
 【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)
 2023.9.20
 
-【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)
+~~【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)~~
 
 【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
@@ -252,7 +252,7 @@
 
 # 南京理工大学
 
-【报名截止：2023.9.10】[计算机科学与工程学院](https://cs.njust.edu.cn/df/4c/c1820a319308/page.htm)
+~~【报名截止：2023.9.10】[计算机科学与工程学院](https://cs.njust.edu.cn/df/4c/c1820a319308/page.htm)~~
 
 # 中央音乐学院
 
