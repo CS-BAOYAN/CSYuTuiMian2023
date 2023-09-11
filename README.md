@@ -6,7 +6,7 @@
 
 # 清华大学
 
-> https://yz.tsinghua.edu.cn/info/1024/2569.htm
+~~【报名截止：2023.8.21】[清华大学2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yz.tsinghua.edu.cn/info/1024/2569.htm)~~
 
 ~~【报名截止：2023.8.21】[清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)~~
 
@@ -17,10 +17,8 @@
 # 北京大学
 
 ~~【报名截止：2023.9.8】[计算机学院](https://cs.pku.edu.cn/info/1023/4183.htm)~~
-2023.9.14-2023.9.15
 
 ~~【报名截止：2023.9.8】[智能学院](https://sai.pku.edu.cn/info/1034/2830.htm)~~
-2023.9.14-2023.9.15
 
 ~~【报名截止：2023.9.8】[工学院](https://www.coe.pku.edu.cn/announcements/college/12274.html)~~
 
@@ -38,7 +36,9 @@
 
 # 复旦大学
 
-> https://gsao.fudan.edu.cn/d1/1a/c15014a512282/page.htm
+【报名截止：2023.9.15】[复旦大学2024年推免生招生预选拔活动报名须知及各院系预选拔工作通知](https://gsao.fudan.edu.cn/d1/1a/c15014a512282/page.htm)
+
+~~【报名截止：2023.9.10】[计算机学院](https://cs.fudan.edu.cn/d1/8d/c24257a512397/page.htm)~~
 
 【报名截止：2023.9.15】[大数据学院](https://sds.fudan.edu.cn/d2/0a/c17701a512522/page.htm)
 
@@ -48,19 +48,17 @@
 
 【报名截止：2023.9.15】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4455)
 
-~~【报名截止：2023.9.10】[计算机学院](https://cs.fudan.edu.cn/d1/8d/c24257a512397/page.htm)~~
-
 # 浙江大学
 
-> http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm
+【报名截止：N/A】[浙江大学关于2024年接收外校推荐免试研究生工作安排的通知](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm)
+
+【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
 
 【报名截止：2023.9.16】[软件学院](http://www.cst.zju.edu.cn/2023/0810/c32178a2788697/page.htm)
 
 【报名截止：2023.9.15】[工程师学院](https://pi.zju.edu.cn/2023/0809/c67026a2788673/page.htm)
 
 【报名截止：2023.9.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0807/c21109a2787985/page.htm)
-
-【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
 
 【报名截止：2023.9.15】[控制科学与工程学院](http://www.cse.zju.edu.cn/2023/0809/c39336a2788586/page.htm)
 
@@ -82,31 +80,29 @@
 
 # 中国科学院
 
-【报名截止：2023.9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202308/t20230817_6862206.html)
+~~【报名截止：2023.9.3】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202308/t20230817_6863377.html)~~
 
-【报名截止：2023.9.24】[微小卫星创新研究院](http://www.microsate.ac.cn/yajsjy/sszsxx/202308/t20230817_6862157.html)
+~~【报名截止：2023.9.5】[计算技术研究所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202308/t20230830_6868797.html)~~
 
-【报名截止：2023.9.18】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202309/t20230901_6870166.html)
-
-【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
-
-【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)
-2023.9.20
+~~【报名截止：N/A】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202308/t20230807_6855143.html)~~
 
 ~~【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)~~
 
 【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
-【报名截止：N/A】[空天信息创新研究院 空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
+【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)
+
+【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
+
+【报名截止：2023.9.18】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202309/t20230901_6870166.html)
+
+【报名截止：2023.9.24】[微小卫星创新研究院](http://www.microsate.ac.cn/yajsjy/sszsxx/202308/t20230817_6862157.html)
+
+【报名截止：2023.9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202308/t20230817_6862206.html)
 
 【报名截止：N/A】[空天信息创新研究院 微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
 
-~~【报名截止：2023.9.5】[计算技术研究所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202308/t20230830_6868797.html)~~
-2023.9.14-2023.9.15
-
-~~【报名截止：2023.9.3】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202308/t20230817_6863377.html)~~
-
-~~【报名截止：N/A】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202308/t20230807_6855143.html)~~
+【报名截止：N/A】[空天信息创新研究院 空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
 
 # 鹏城实验室
 
@@ -124,29 +120,25 @@
 
 # 哈尔滨工业大学
 
-【报名截止：2023.9.17】[深圳 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)
+~~【报名截止：2023.7.18】[哈尔滨工业大学计算学部关于接受2024年推免生（含直博生）预报名的通知](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
-~~【报名截止：2023.7.18】[计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
+【报名截止：2023.9.17】[哈尔滨工业大学（深圳） 计算机科学与技术学院2024年推免生（含直博生）接收工作细则](http://cs.hitsz.edu.cn/info/1029/6813.htm)
 
 # 西安交通大学
 
 【报名截止：2023.9.24】[西安交通大学关于开展2024年招收推荐免试研究生预报名的通知](https://yz.xjtu.edu.cn/info/1086/3851.htm)
 
+【报名截止：2023.9.21】[电子与信息学部-软件学院关于招收2024年推荐免试研究生预报名通知](http://se.xjtu.edu.cn/info/1043/2631.htm)
+
+【报名截止：2023.9.22】[电子与信息学部-计算机学院​关于2024年招收推荐免试研究生预报名的通知](http://www.cs.xjtu.edu.cn/info/1233/3220.htm)
+
 # 华中科技大学
 
 【报名截止：N/A】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
-2023.9.23-2023.9.24
 
 # 厦门大学
 
 【报名截止：2023.9.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/32919.htm)
-2023.9.21-2023.9.23
-
-# 哈尔滨工程大学
-
-【报名截止：2023.9.18】[智能科学与工程学院](http://cisse.hrbeu.edu.cn/info/1275/4683.htm) | 本校报名截止为 2023.9.8
-
-【报名截止：2023.9.15】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0908/c3688a315209/page.htm)
 
 # 东北大学
 
@@ -162,9 +154,9 @@
 
 # 山东大学
 
-【报名截止：2023.9.11】[计算机学院](https://www.cs.sdu.edu.cn/info/1068/5964.htm)
+【报名截止：2023.9.20】[山东大学计算机学院2024年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.cs.sdu.edu.cn/info/1068/5964.htm)
 
-【报名截止：2023.9.11】[山东大学软件学院2024年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.sc.sdu.edu.cn/info/1019/4204.htm)
+【报名截止：2023.9.20】[山东大学软件学院2024年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.sc.sdu.edu.cn/info/1019/4204.htm)
 
 # 中山大学
 
@@ -188,7 +180,9 @@
 
 【报名截止：2023.9.20】[天津大学2024级研究生招生推免系统](http://yzb.tju.edu.cn/xwzx/zxxx/202307/t20230715_323276.htm)
 
-【报名截止：2023.9.15】[天津大学智能与计算学部](http://cic.tju.edu.cn/info/1041/4613.htm) 硕士2023.9.15截止 博士2023.9.20截止
+【报名截止：2023.9.15】[天津大学智能与计算学部-硕士](http://cic.tju.edu.cn/info/1041/4613.htm)
+
+【报名截止：2023.9.20】[天津大学智能与计算学部-博士](http://cic.tju.edu.cn/info/1041/4613.htm)
 
 【报名截止：2023.9.16】[天津大学佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4087)
 
@@ -209,6 +203,12 @@
 【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
 
 【报名截止：2023.9.25】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/15929.htm)
+
+# 哈尔滨工程大学
+
+【报名截止：2023.9.15】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0908/c3688a315209/page.htm)
+
+【报名截止：2023.9.18】[智能科学与工程学院](http://cisse.hrbeu.edu.cn/info/1275/4683.htm) | 本校报名截止为 2023.9.8
 
 # 北京科技大学
 
