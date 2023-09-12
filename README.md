@@ -7,12 +7,11 @@
 # 清华大学
 
 > https://yz.tsinghua.edu.cn/info/1024/2569.htm
+> https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg
 
-~~【报名截止：2023.8.21】[清华大学计算机科学与技术系2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)~~
+~~【报名截止：2023.8.21】[清华大学计算机科学与技术系-博士](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)~~
 
-~~【报名截止：2023.8.21】[清华大学深圳国际研究生院2024年接收优秀应届本科毕业生免试攻读研究生报名通知](https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg)~~
-
-~~【报名截止：2023.8.21】[清华大学-鹏城实验室联合培养博士专项计划2024年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)~~
+~~【报名截止：2023.8.21】[清华大学-鹏城实验室联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)~~
 
 # 北京大学
 
@@ -32,9 +31,9 @@
 
 # 上海交通大学
 
-【报名截止：2023.9.14】[电院2024级推荐免试直升研究生招生通知](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_bszs/8988.html)
+【报名截止：2023.9.14】[电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_bszs/8988.html)
 
-~~【报名截止：2023.8.22】[交大密西根学院工学类专业2024年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-08-18/140682/)~~
+~~【报名截止：2023.8.22】[密西根学院](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-08-18/140682/)~~
 
 # 复旦大学
 
@@ -60,11 +59,11 @@
 
 【报名截止：2023.9.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0807/c21109a2787985/page.htm)
 
-【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
-
 【报名截止：2023.9.15】[控制科学与工程学院](http://www.cse.zju.edu.cn/2023/0809/c39336a2788586/page.htm)
 
 【报名截止：2023.9.15】[浙江大学国际联合商学院-数据科学与工程项目](https://zibs.zju.edu.cn/article/zibs-2024-graduate-admissions.html)
+
+~~【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)~~
 
 # 南京大学
 
@@ -74,11 +73,11 @@
 
 # 中国科学技术大学
 
+【报名截止：2023.9.21】[信息科学技术学院自动化系](https://auto.ustc.edu.cn/2023/0908/c26085a611629/page.htm)
+
 【报名截止：2023.9.15】[网络空间安全学院](http://cybersec.ustc.edu.cn/2023/0907/c23826a611551/page.htm)
 
 【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
-
-【报名截止：2023.9.21】[信息科学技术学院自动化系](https://auto.ustc.edu.cn/2023/0908/c26085a611629/page.htm)
 
 # 中国科学院
 
@@ -90,16 +89,16 @@
 
 【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
 
-【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)
+【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
+
+【报名截止：N/A】[空天信息创新研究院-微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
+
+【报名截止：N/A】[空天信息创新研究院-空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
+
+~~【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)~~
 2023.9.20
 
 ~~【报名截止：2023.9.10】[计算机网络信息中心](http://cnic.cas.cn/rcjy/yjsjy/zsxx/tjms/202308/t20230821_6864413.html)~~
-
-【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
-
-【报名截止：N/A】[空天信息创新研究院 空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
-
-【报名截止：N/A】[空天信息创新研究院 微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
 
 ~~【报名截止：2023.9.5】[计算技术研究所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202308/t20230830_6868797.html)~~
 2023.9.14-2023.9.15
@@ -114,27 +113,31 @@
 
 # 同济大学
 
-【报名截止：2023.9.23】[同济大学2024年接收推荐免试研究生(含直接攻博)预报名通知](https://yz.tongji.edu.cn/info/1010/3228.htm)
+> https://yz.tongji.edu.cn/info/1010/3228.htm
 
 【报名截止：2023.9.15】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11802.htm)
 
 # 华东师范大学
 
-【报名截止：N/A】[华东师范大学2024年接收推荐免试研究生（含直接攻博）预报名的通知](https://yjszs.ecnu.edu.cn/system/yjszsxx_detail.asp?id=202309082011006313191111043)
+> https://yjszs.ecnu.edu.cn/system/yjszsxx_detail.asp?id=202309082011006313191111043
 
 # 哈尔滨工业大学
 
-【报名截止：2023.9.17】[深圳 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)
+【报名截止：2023.9.17】[（深圳）计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)
 
-~~【报名截止：2023.7.18】[计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
+~~【报名截止：2023.7.18】[（本部）计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
 # 西安交通大学
 
-【报名截止：2023.9.24】[西安交通大学关于开展2024年招收推荐免试研究生预报名的通知](https://yz.xjtu.edu.cn/info/1086/3851.htm)
+> https://yz.xjtu.edu.cn/info/1086/3851.htm
+
+【报名截止：2023.9.22】[电子与信息学部-计算机学院](http://www.cs.xjtu.edu.cn/info/1233/3220.htm)
+
+【报名截止：2023.9.21】[电子与信息学部-软件学院](http://se.xjtu.edu.cn/info/1043/2631.htm)
 
 # 华中科技大学
 
-【报名截止：N/A】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+【报名截止：预计9月中旬】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
 2023.9.23-2023.9.24
 
 # 厦门大学
@@ -142,55 +145,51 @@
 【报名截止：2023.9.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/32919.htm)
 2023.9.21-2023.9.23
 
-# 哈尔滨工程大学
-
-【报名截止：2023.9.18】[智能科学与工程学院](http://cisse.hrbeu.edu.cn/info/1275/4683.htm) | 本校报名截止为 2023.9.8
-
-【报名截止：2023.9.15】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0908/c3688a315209/page.htm)
-
 # 东北大学
 
-【报名截止：N/A】[东北大学2024年接收推荐免试研究生工作办法](http://yz.neu.edu.cn/2023/0715/c5932a233617/pagem.htm)
+> http://yz.neu.edu.cn/2023/0715/c5932a233617/pagem.htm
 
 # 湖南大学
 
-【报名截止：2023.9.24】[湖南大学2024年接收推荐免试研究生预报名公告](http://gra.hnu.edu.cn/info/1075/9262.htm)
+> http://gra.hnu.edu.cn/info/1075/9262.htm
 
 # 中南大学
 
-【报名截止：2023.9.15】[2023年中南大学计算机学院预推免考核工作的通知](https://cse.csu.edu.cn/info/1040/8566.htm) 此为第二轮预推免考核
+【报名截止：2023.9.15】[计算机学院-第二轮预推免考核](https://cse.csu.edu.cn/info/1040/8566.htm)
 
 # 山东大学
 
-【报名截止：2023.9.11】[计算机学院](https://www.cs.sdu.edu.cn/info/1068/5964.htm)
+【报名截止：2023.9.20】[计算机学院](https://www.cs.sdu.edu.cn/info/1068/5964.htm)
 
-【报名截止：2023.9.11】[山东大学软件学院2024年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.sc.sdu.edu.cn/info/1019/4204.htm)
+【报名截止：2023.9.20】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4204.htm)
 
 # 中山大学
 
-【报名截止：2023.9.14】[中山大学计算机学院2024级推荐免试研究生预选拔通知](https://cse.sysu.edu.cn/content/6892)
+【报名截止：2023.9.14】[计算机学院](https://cse.sysu.edu.cn/content/6892)
 
 # 华南理工大学
 
-【报名截止：2023.10.15】[华南理工大学接收2024年推荐免试研究生预报名通知](http://yz.scut.edu.cn/2023/0825/c30111a516652/page.htm)
+> http://yz.scut.edu.cn/2023/0825/c30111a516652/page.htm
 
 # 大连理工大学
 
-【报名截止：N/A】[关于开通大连理工大学2024年接收推荐免试研究生预报名系统的通知](http://gs.dlut.edu.cn/info/1173/13435.htm)
+> http://gs.dlut.edu.cn/info/1173/13435.htm
 
 # 中国海洋大学
 
-【报名截止：2023.9.15】[中国海洋大学接收2024年推荐免试研究生的通知](http://yz.ouc.edu.cn/2023/0825/c5926a439212/page.htm)
+> http://yz.ouc.edu.cn/2023/0825/c5926a439212/page.htm
 
-【报名截止：2023.9.15】[中国海洋大学2024年接收“创新人才培养专项计划”研究生的通知](http://yz.ouc.edu.cn/2023/0825/c5926a439211/page.htm)
+【报名截止：2023.9.15】[创新人才培养专项计划](http://yz.ouc.edu.cn/2023/0825/c5926a439211/page.htm)
 
 # 天津大学
 
-【报名截止：2023.9.20】[天津大学2024级研究生招生推免系统](http://yzb.tju.edu.cn/xwzx/zxxx/202307/t20230715_323276.htm)
+> http://yzb.tju.edu.cn/xwzx/zxxx/202307/t20230715_323276.htm
 
-【报名截止：2023.9.15】[天津大学智能与计算学部](http://cic.tju.edu.cn/info/1041/4613.htm) 硕士2023.9.15截止 博士2023.9.20截止
+【报名截止：2023.9.20】[智能与计算学部-博士](http://cic.tju.edu.cn/info/1041/4613.htm)
 
-【报名截止：2023.9.16】[天津大学佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4087)
+【报名截止：2023.9.16】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4087)
+
+【报名截止：2023.9.15】[智能与计算学部-硕士](http://cic.tju.edu.cn/info/1041/4613.htm)
 
 # 兰州大学
 
@@ -198,9 +197,11 @@
 
 # 国防科技大学
 
-【报名截止：2023.9.22】[国防科技大学接收2024级地方院校推荐免试硕士研究生（含直博生）工作方案](https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13138)
+> https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13138
 
 # 西安电子科技大学
+
+【报名截止：2023.9.25】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/15929.htm)
 
 【报名截止：2023.9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9261.htm)
 
@@ -208,7 +209,11 @@
 
 【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
 
-【报名截止：2023.9.25】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/15929.htm)
+# 哈尔滨工程大学
+
+【报名截止：2023.9.18】[智能科学与工程学院](http://cisse.hrbeu.edu.cn/info/1275/4683.htm)
+
+【报名截止：2023.9.15】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0908/c3688a315209/page.htm)
 
 # 北京科技大学
 
@@ -226,7 +231,7 @@
 
 # 上海大学
 
-【报名截止：2023.9.25】[上海大学2024年接收推荐免试攻读研究生(含直博生)预报名通知](https://mp.weixin.qq.com/s/wS8-O23oJq_BvA2kxE7J5w)
+> https://mp.weixin.qq.com/s/wS8-O23oJq_BvA2kxE7J5w
 
 # 郑州大学
 
@@ -238,7 +243,7 @@
 
 # 南方科技大学
 
-~~【报名截止：2023.9.6】[南方科技大学计算机科学与工程系 2024年接收推荐免试研究生报名通知](https://cse.sustech.edu.cn/cn/news/view/id/1003)~~
+~~【报名截止：2023.9.6】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1003)~~
 
 【报名截止：N/A】[南科大刘泉影课题组NCC lab招收保研硕士生](https://mp.weixin.qq.com/s/P82jMvMadH59DaDlD-077w)
 
