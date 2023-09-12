@@ -52,7 +52,7 @@
 
 【报名截止：N/A】[浙江大学关于2024年接收外校推荐免试研究生工作安排的通知](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm)
 
-【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)
+~~【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)~~
 
 【报名截止：2023.9.16】[软件学院](http://www.cst.zju.edu.cn/2023/0810/c32178a2788697/page.htm)
 
@@ -90,7 +90,7 @@
 
 【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
-【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)
+~~【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)~~
 
 【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
 
@@ -134,7 +134,7 @@
 
 # 华中科技大学
 
-【报名截止：N/A】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+【报名截止：预计9月中旬】[华中科技大学计算机科学与技术学院2023年接收推免研究生预报名通知](http://www.cs.hust.edu.cn/info/1439/3296.htm)
 
 # 厦门大学
 
