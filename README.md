@@ -262,6 +262,9 @@
 
 【报名截止：2023.9.18】[计算机科学与技术学院/人工智能学院/软件学院](http://cs.nuaa.edu.cn/2023/0707/c10851a315084/page.htm)
 
+# 中国矿业大学
+【报名截止：2023.9.18】 [计算机科学与技术学院/信息与控制工程学院](https://mp.weixin.qq.com/s/OpLsjN01AslCc55pKJItnQ)
+
 # 河北工业大学
 
 【报名截止：N/A】[河北工业大学关于接收2024年推免研究生的通知](https://yjs.hebut.edu.cn/zsgz/zsgztzgg/4d04b3576f3645f3a92df3da684f2259.htm)
