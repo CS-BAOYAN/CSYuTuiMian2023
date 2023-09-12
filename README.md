@@ -193,7 +193,7 @@
 
 # 兰州大学
 
-【报名截止：N/A】[兰州大学2024年推免生预报名正在火热进行中！](https://yoyo000.github.io/images/NJU-3DV-2023.pdf)
+> https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2023/0907/226987.html
 
 # 国防科技大学
 
