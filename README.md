@@ -7,11 +7,12 @@
 # 清华大学
 
 > https://yz.tsinghua.edu.cn/info/1024/2569.htm
-> https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg
 
 ~~【报名截止：2023.8.21】[清华大学计算机科学与技术系-博士](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)~~
 
 ~~【报名截止：2023.8.21】[清华大学-鹏城实验室联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)~~
+
+~~【报名截止：2023.8.21】[清华大学-深圳国际研究院](https://mp.weixin.qq.com/s/F8rV3_VK2ad1ZM60cncMNg)~~
 
 # 北京大学
 
@@ -125,17 +126,17 @@
 
 # 哈尔滨工业大学
 
-【报名截止：2023.9.17】[（深圳）计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)
+【报名截止：2023.9.17】[深圳 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)
 
-~~【报名截止：2023.7.18】[（本部）计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
+~~【报名截止：2023.7.18】[计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
 # 西安交通大学
 
 > https://yz.xjtu.edu.cn/info/1086/3851.htm
 
-【报名截止：2023.9.22】[电子与信息学部-计算机学院](http://www.cs.xjtu.edu.cn/info/1233/3220.htm)
+【报名截止：2023.9.22】[电子与信息学部 计算机学院](http://www.cs.xjtu.edu.cn/info/1233/3220.htm)
 
-【报名截止：2023.9.21】[电子与信息学部-软件学院](http://se.xjtu.edu.cn/info/1043/2631.htm)
+【报名截止：2023.9.21】[电子与信息学部 软件学院](http://se.xjtu.edu.cn/info/1043/2631.htm)
 
 # 华中科技大学
 
