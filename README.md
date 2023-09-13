@@ -214,6 +214,10 @@
 
 【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
 
+# 北京工业大学
+
+> https://yanzhao.bjut.edu.cn/info/1019/6584.htm
+
 # 哈尔滨工程大学
 
 【报名截止：2023.9.18】[智能科学与工程学院](http://cisse.hrbeu.edu.cn/info/1275/4683.htm)
