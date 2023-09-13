@@ -283,7 +283,9 @@
 
 # 深圳大学
 
-【报名截止：N/A】[深圳大学2024年接收推荐免试攻读研究生章程（含直博生）](https://yz.szu.edu.cn/info/1041/12597.htm)
+> https://yz.szu.edu.cn/info/1041/12597.htm
+
+【报名截止：2023.9.24】[计算机与软件学院](https://mp.weixin.qq.com/s/0xXX77rE21GX9QUC8L30mQ)
 
 # 广州大学
 
