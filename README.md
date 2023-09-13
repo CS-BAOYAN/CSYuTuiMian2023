@@ -176,6 +176,8 @@
 
 > http://yz.scut.edu.cn/2023/0825/c30111a516652/page.htm
 
+【报名截止：2023.10.15】[深圳湾实验室-华南理工联培](http://yz.scut.edu.cn/2023/0907/c30674a517890/page.htm)
+
 # 大连理工大学
 
 > http://gs.dlut.edu.cn/info/1173/13435.htm
