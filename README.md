@@ -281,7 +281,11 @@
 
 # 河北工业大学
 
-【报名截止：N/A】[河北工业大学关于接收2024年推免研究生的通知](https://yjs.hebut.edu.cn/zsgz/zsgztzgg/4d04b3576f3645f3a92df3da684f2259.htm)
+> https://yjs.hebut.edu.cn/zsgz/zsgztzgg/4d04b3576f3645f3a92df3da684f2259.htm
+
+【报名截止：2023.9.16】[电子信息工程学院](https://eie.hebut.edu.cn/xwgg/tzgg/131e25baeda6459096eb165709623756.htm)
+
+【报名截止：2023.9.13】[人工智能与数据科学学院](https://ai.hebut.edu.cn/tzgg/d2247a1c7d6a48b281eb2649eb3fe0d9.htm)
 
 # 深圳大学
 
