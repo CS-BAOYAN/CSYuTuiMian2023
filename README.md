@@ -299,6 +299,8 @@
 
 【报名截止：2023.9.24】[计算机与软件学院](https://mp.weixin.qq.com/s/0xXX77rE21GX9QUC8L30mQ)
 
+【报名截止：N/A】[大湾区国际创新学院 人工智能](https://mp.weixin.qq.com/s/mmR6YC0cniuTRR-WZcqtCQ)
+
 # 广州大学
 
 【报名截止：N/A】[广州大学2024年接收推荐免试攻读硕士学位研究生预报名通知](http://yjsy.gzhu.edu.cn/info/1084/4592.htm)
