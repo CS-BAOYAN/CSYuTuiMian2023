@@ -74,6 +74,8 @@
 
 # 中国科学技术大学
 
+> https://yz.ustc.edu.cn/article/2659/176?num=-1
+
 【报名截止：2023.9.21】[信息科学技术学院自动化系](https://auto.ustc.edu.cn/2023/0908/c26085a611629/page.htm)
 
 【报名截止：2023.9.15】[网络空间安全学院](http://cybersec.ustc.edu.cn/2023/0907/c23826a611551/page.htm)
