@@ -64,6 +64,8 @@
 
 【报名截止：2023.9.15】[浙江大学国际联合商学院-数据科学与工程项目](https://zibs.zju.edu.cn/article/zibs-2024-graduate-admissions.html)
 
+【报名截止：2023.9.15】[浙江大学关于接收2024年“国优计划”推荐免试硕士研究生预报名的通知](http://www.grs.zju.edu.cn/yjszs/2023/0908/c28498a2799057/page.htm)
+
 ~~【报名截止：2023.9.11】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0810/c27006a2788704/page.htm)~~
 
 # 南京大学
