@@ -144,6 +144,8 @@
 
 【报名截止：2023.9.21】[电子与信息学部 软件学院](http://se.xjtu.edu.cn/info/1043/2631.htm)
 
+【报名截止：2023.9.18】[电子与信息学部 人工智能学院](http://www.aiar.xjtu.edu.cn/info/1005/2886.htm)
+
 # 华中科技大学
 
 【报名截止：预计9月中旬】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
@@ -302,7 +304,7 @@
 
 【报名截止：2023.9.16】[电子信息工程学院](https://eie.hebut.edu.cn/xwgg/tzgg/131e25baeda6459096eb165709623756.htm)
 
-【报名截止：2023.9.13】[人工智能与数据科学学院](https://ai.hebut.edu.cn/tzgg/d2247a1c7d6a48b281eb2649eb3fe0d9.htm)
+【报名截止：2023.9.16】[人工智能与数据科学学院-第二批](https://ai.hebut.edu.cn/tzgg/d2247a1c7d6a48b281eb2649eb3fe0d9.htm)
 
 # 深圳大学
 
