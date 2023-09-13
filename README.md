@@ -124,6 +124,8 @@
 
 【报名截止：2023.9.15】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11802.htm)
 
+【报名截止：2023.9.18】[同济大学2024年“国优计划”研究生招生通知暨考核办法（推免选拔）](https://yz.tongji.edu.cn/info/1010/3231.htm)
+
 # 华东师范大学
 
 > https://yjszs.ecnu.edu.cn/system/yjszsxx_detail.asp?id=202309082011006313191111043
