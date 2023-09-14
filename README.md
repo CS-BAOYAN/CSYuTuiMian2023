@@ -118,6 +118,10 @@
 
 ~~【报名截止：2023.8.10】[科创营](http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=8f9c1d3ffa094a23842b8c422fbece97&xxlm=04)~~
 
+# 北京航空航天大学
+
+【报名截止：2023.9.20】[计算机学院](https://scse.buaa.edu.cn/info/1299/10382.htm)
+
 # 同济大学
 
 > https://yz.tongji.edu.cn/info/1010/3228.htm
