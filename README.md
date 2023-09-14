@@ -188,6 +188,10 @@
 
 【报名截止：2023.9.15】[软件工程学院](https://sse.sysu.edu.cn/article/605)
 
+# 重庆大学
+
+【报名截止：2023.9.17】[国家卓越工程师学院](https://mp.weixin.qq.com/s/OGLWVDOtJCGaphToIB5Pgw)
+
 # 华南理工大学
 
 > http://yz.scut.edu.cn/2023/0825/c30111a516652/page.htm
@@ -347,10 +351,6 @@
 # 广西师范大学
 
 【报名截止：N/A】[广西师范大学2024年接收外校推荐免试攻读硕士研究生简章](http://www.yz.gxnu.edu.cn/2023/0905/c4626a273729/page.htm)
-
-# 重庆大学
-
-【报名截止：2023.9.17】[国家卓越工程师学院](https://mp.weixin.qq.com/s/OGLWVDOtJCGaphToIB5Pgw)
 
 # 致谢
 
