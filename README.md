@@ -126,6 +126,8 @@
 
 【报名截止：2023.9.20】[计算机学院](https://scse.buaa.edu.cn/info/1299/10382.htm)
 
+【报名截止：2023.9.18】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10682)
+
 # 同济大学
 
 > https://yz.tongji.edu.cn/info/1010/3228.htm
