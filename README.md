@@ -178,6 +178,8 @@
 
 【报名截止：2023.9.14】[计算机学院](https://cse.sysu.edu.cn/content/6892)
 
+【报名截止：2023.9.15】[软件工程学院](https://sse.sysu.edu.cn/article/605)
+
 # 华南理工大学
 
 > http://yz.scut.edu.cn/2023/0825/c30111a516652/page.htm
