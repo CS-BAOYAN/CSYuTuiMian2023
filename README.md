@@ -96,6 +96,8 @@
 
 【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
 
+【报名截止：2023.9.21】[杭州高等研究院 智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1583.htm)
+
 【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
 【报名截止：N/A】[空天信息创新研究院-微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
