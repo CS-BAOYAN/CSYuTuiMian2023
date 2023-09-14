@@ -32,7 +32,7 @@
 
 # 上海交通大学
 
-【报名截止：2023.9.14】[电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_bszs/8988.html)
+~~【报名截止：2023.9.14】[电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_bszs/8988.html)~~
 
 ~~【报名截止：2023.8.22】[密西根学院](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-08-18/140682/)~~
 
@@ -96,7 +96,7 @@
 
 【报名截止：2023.9.18】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202309/t20230901_6870166.html)
 
-【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)
+~~【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)~~
 
 【报名截止：2023.9.21】[杭州高等研究院 智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1583.htm)
 
@@ -186,7 +186,7 @@
 
 # 中山大学
 
-【报名截止：2023.9.14】[计算机学院](https://cse.sysu.edu.cn/content/6892)
+~~【报名截止：2023.9.14】[计算机学院](https://cse.sysu.edu.cn/content/6892)~~
 
 【报名截止：2023.9.15】[软件工程学院](https://sse.sysu.edu.cn/article/605)
 
