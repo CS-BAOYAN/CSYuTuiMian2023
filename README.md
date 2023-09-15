@@ -192,7 +192,7 @@
 
 # 重庆大学
 
-【报名截止：2023.9.17】[国家卓越工程师学院](https://mp.weixin.qq.com/s/OGLWVDOtJCGaphToIB5Pgw)
+【报名截止：2023.9.17】[国家卓越工程师学院](https://mp.weixin.qq.com/s/j8F_KSKBH7tuctmNHJU98w)
 
 # 华南理工大学
 
