@@ -128,6 +128,8 @@
 
 【报名截止：2023.9.18】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10682)
 
+【报名截止：2023.9.20】[人工智能研究院](https://iai.buaa.edu.cn/info/1024/2741.htm)
+
 # 同济大学
 
 > https://yz.tongji.edu.cn/info/1010/3228.htm
@@ -155,6 +157,10 @@
 【报名截止：2023.9.21】[电子与信息学部 软件学院](http://se.xjtu.edu.cn/info/1043/2631.htm)
 
 【报名截止：2023.9.18】[电子与信息学部 人工智能学院](http://www.aiar.xjtu.edu.cn/info/1005/2886.htm)
+
+# 西北工业大学
+
+【报名截止：2023.9.20】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/20385.htm)
 
 # 华中科技大学
 
@@ -189,6 +195,8 @@
 ~~【报名截止：2023.9.14】[计算机学院](https://cse.sysu.edu.cn/content/6892)~~
 
 【报名截止：2023.9.15】[软件工程学院](https://sse.sysu.edu.cn/article/605)
+
+【报名截止：2023.9.19】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1410954.htm)
 
 # 重庆大学
 
