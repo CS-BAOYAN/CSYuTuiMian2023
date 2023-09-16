@@ -316,7 +316,7 @@
 
 # 中国农业大学
 
-【报名截止：2023.9.16】 [中国农业大学2024年接收推免生预报名通知](http://yz.cau.edu.cn/art/2023/9/8/art_41740_979595.html)
+~~【报名截止：2023.9.16】 [中国农业大学2024年接收推免生预报名通知](http://yz.cau.edu.cn/art/2023/9/8/art_41740_979595.html)~~
 
 # 中国矿业大学
 
@@ -326,9 +326,9 @@
 
 > https://yjs.hebut.edu.cn/zsgz/zsgztzgg/4d04b3576f3645f3a92df3da684f2259.htm
 
-【报名截止：2023.9.16】[电子信息工程学院](https://eie.hebut.edu.cn/xwgg/tzgg/131e25baeda6459096eb165709623756.htm)
+~~【报名截止：2023.9.16】[电子信息工程学院](https://eie.hebut.edu.cn/xwgg/tzgg/131e25baeda6459096eb165709623756.htm)~~
 
-【报名截止：2023.9.16】[人工智能与数据科学学院-第二批](https://ai.hebut.edu.cn/tzgg/d2247a1c7d6a48b281eb2649eb3fe0d9.htm)
+~~【报名截止：2023.9.16】[人工智能与数据科学学院-第二批](https://ai.hebut.edu.cn/tzgg/d2247a1c7d6a48b281eb2649eb3fe0d9.htm)~~
 
 # 深圳大学
 
