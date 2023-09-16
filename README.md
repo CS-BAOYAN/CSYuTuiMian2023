@@ -126,9 +126,9 @@
 
 【报名截止：2023.9.20】[计算机学院](https://scse.buaa.edu.cn/info/1299/10382.htm)
 
-【报名截止：2023.9.18】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10682)
-
 【报名截止：2023.9.20】[人工智能研究院](https://iai.buaa.edu.cn/info/1024/2741.htm)
+
+【报名截止：2023.9.18】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10682)
 
 # 同济大学
 
