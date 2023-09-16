@@ -192,11 +192,11 @@
 
 # 中山大学
 
-~~【报名截止：2023.9.14】[计算机学院](https://cse.sysu.edu.cn/content/6892)~~
+【报名截止：2023.9.19】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1410954.htm)
 
 【报名截止：2023.9.15】[软件工程学院](https://sse.sysu.edu.cn/article/605)
 
-【报名截止：2023.9.19】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1410954.htm)
+~~【报名截止：2023.9.14】[计算机学院](https://cse.sysu.edu.cn/content/6892)~~
 
 # 重庆大学
 
