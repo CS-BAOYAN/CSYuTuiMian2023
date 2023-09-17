@@ -194,7 +194,9 @@
 
 # 山东大学
 
-【报名截止：2023.9.20】[计算机学院](https://www.cs.sdu.edu.cn/info/1068/5964.htm)
+【报名截止：2023.9.20】[计算机学院-硕士](https://www.cs.sdu.edu.cn/info/1068/5964.htm)
+
+【报名截止：2023.9.20】[计算机学院-博士](https://www.cs.sdu.edu.cn/info/1068/5967.htm)
 
 【报名截止：2023.9.20】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4204.htm)
 
@@ -265,6 +267,12 @@
 【报名截止：2023.9.23】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5266.html)
 
 【报名截止：2023.9.20】[软件学院](http://rjxy.bjtu.edu.cn/cms/item/955.html)
+
+# 西南交通大学
+
+【报名截止：2023.9.20】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=03da2884-f0b7-461a-a725-5a8e474e2602)
+
+【报名截止：2023.9.25】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1145/4244.htm)
 
 # 北京工业大学
 
