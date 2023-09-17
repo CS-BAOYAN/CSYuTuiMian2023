@@ -94,6 +94,8 @@
 
 【报名截止：2023.9.24】[微小卫星创新研究院](http://www.microsate.ac.cn/yajsjy/sszsxx/202308/t20230817_6862157.html)
 
+【报名截止：2023.9.19】[自动化研究所-第二批](http://www.ia.cas.cn/yjsjy/zs/sszs/202309/t20230911_6877779.html)
+
 【报名截止：2023.9.18】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202309/t20230901_6870166.html)
 
 ~~【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)~~
@@ -123,6 +125,8 @@
 ~~【报名截止：2023.8.10】[科创营](http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=8f9c1d3ffa094a23842b8c422fbece97&xxlm=04)~~
 
 # 北京航空航天大学
+
+> https://yzb.buaa.edu.cn/info/1036/2881.htm
 
 【报名截止：2023.9.20】[计算机学院](https://scse.buaa.edu.cn/info/1299/10382.htm)
 
@@ -236,6 +240,10 @@
 
 > https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13138
 
+# 中央民族大学
+
+【报名截止：2023.9.22】[信息工程学院](https://xingong.muc.edu.cn/info/1037/2585.htm)
+
 # 西安电子科技大学
 
 【报名截止：2023.9.25】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/15929.htm)
@@ -245,6 +253,14 @@
 【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
 
 【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
+
+# 北京交通大学
+
+> https://gs.bjtu.edu.cn/cms/zszt/item/2867.html
+
+【报名截止：2023.9.23】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5266.html)
+
+【报名截止：2023.9.20】[软件学院](http://rjxy.bjtu.edu.cn/cms/item/955.html)
 
 # 北京工业大学
 
