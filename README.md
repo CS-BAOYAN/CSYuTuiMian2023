@@ -132,15 +132,19 @@
 
 【报名截止：2023.9.20】[人工智能研究院](https://iai.buaa.edu.cn/info/1024/2741.htm)
 
+【报名截止：2023.9.20】[网络空间安全学院](https://cst.buaa.edu.cn/info/1102/3123.htm)
+
 【报名截止：2023.9.18】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10682)
 
 # 同济大学
 
 > https://yz.tongji.edu.cn/info/1010/3228.htm
 
-~~【报名截止：2023.9.15】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11802.htm)~~
+【报名截止：2023.9.18】[软件学院](https://sse.tongji.edu.cn/info/1132/4524.htm) 第二批截止时间2023.9.24
 
 【报名截止：2023.9.18】[同济大学2024年“国优计划”研究生招生通知暨考核办法（推免选拔）](https://yz.tongji.edu.cn/info/1010/3231.htm)
+
+~~【报名截止：2023.9.15】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11802.htm)~~
 
 # 华东师范大学
 
