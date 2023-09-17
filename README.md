@@ -78,15 +78,15 @@
 
 > https://yz.ustc.edu.cn/article/2659/176?num=-1
 
+【报名截止：2023.9.25】[先进技术研究院](https://iat.ustc.edu.cn/iat/x198/20230912/6496.html)
+
 【报名截止：2023.9.21】[信息科学技术学院电子工程与信息科学系（6系）](https://eeis.ustc.edu.cn/2023/0908/c2702a611626/page.htm)
 
 【报名截止：2023.9.21】[信息科学技术学院自动化系（10系）](https://auto.ustc.edu.cn/2023/0908/c26085a611629/page.htm)
 
-~~【报名截止：2023.9.15】[网络空间安全学院](http://cybersec.ustc.edu.cn/2023/0907/c23826a611551/page.htm)~~
-
 【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
 
-【报名截止：2023.9.25】[先进技术研究院](https://iat.ustc.edu.cn/iat/x198/20230912/6496.html)
+~~【报名截止：2023.9.15】[网络空间安全学院](http://cybersec.ustc.edu.cn/2023/0907/c23826a611551/page.htm)~~
 
 # 中国科学院
 
@@ -98,8 +98,6 @@
 
 【报名截止：2023.9.18】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202309/t20230901_6870166.html)
 
-~~【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)~~
-
 【报名截止：2023.9.21】[杭州高等研究院 智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1583.htm)
 
 【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
@@ -107,6 +105,8 @@
 【报名截止：N/A】[空天信息创新研究院-微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
 
 【报名截止：N/A】[空天信息创新研究院-空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
+
+~~【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)~~
 
 ~~【报名截止：2023.9.11】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202308/t20230828_6868176.html)~~
 2023.9.20
@@ -152,7 +152,7 @@
 
 # 哈尔滨工业大学
 
-【报名截止：2023.9.17】[深圳 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)
+~~【报名截止：2023.9.17】[深圳 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)~~
 
 ~~【报名截止：2023.7.18】[计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
@@ -210,7 +210,7 @@
 
 # 重庆大学
 
-【报名截止：2023.9.17】[国家卓越工程师学院](https://mp.weixin.qq.com/s/j8F_KSKBH7tuctmNHJU98w)
+~~【报名截止：2023.9.17】[国家卓越工程师学院](https://mp.weixin.qq.com/s/j8F_KSKBH7tuctmNHJU98w)~~
 
 # 华南理工大学
 
@@ -270,9 +270,9 @@
 
 # 西南交通大学
 
-【报名截止：2023.9.20】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=03da2884-f0b7-461a-a725-5a8e474e2602)
-
 【报名截止：2023.9.25】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1145/4244.htm)
+
+【报名截止：2023.9.20】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=03da2884-f0b7-461a-a725-5a8e474e2602)
 
 # 北京工业大学
 
