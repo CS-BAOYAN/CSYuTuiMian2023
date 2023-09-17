@@ -2,7 +2,7 @@
 
 关于**2023年CS保研预推免通知公告**的汇总。欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？（本仓库将随各校通知的发布实时更新，具体形式可参见往年：[CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)、[CSYuTuiMian2021](https://github.com/RookieJunChen/CSYuTuiMian2021)、[CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020)。预祝大家夏令营成功上岸！
 
-另附[【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)，请使用**加入了绿群的QQ号登陆以查看文档，无须申请权限**。
+另附[【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)，请使用**加入了绿群的QQ号登录以查看文档，无须申请权限**。
 
 # 清华大学
 
