@@ -94,17 +94,17 @@
 
 【报名截止：2023.9.24】[微小卫星创新研究院](http://www.microsate.ac.cn/yajsjy/sszsxx/202308/t20230817_6862157.html)
 
-【报名截止：2023.9.19】[自动化研究所-第二批](http://www.ia.cas.cn/yjsjy/zs/sszs/202309/t20230911_6877779.html)
-
-【报名截止：2023.9.18】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202309/t20230901_6870166.html)
-
 【报名截止：2023.9.21】[杭州高等研究院 智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1583.htm)
+
+【报名截止：2023.9.19】[自动化研究所-第二批](http://www.ia.cas.cn/yjsjy/zs/sszs/202309/t20230911_6877779.html)
 
 【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
 【报名截止：N/A】[空天信息创新研究院-微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
 
 【报名截止：N/A】[空天信息创新研究院-空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
+
+~~【报名截止：2023.9.18】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202309/t20230901_6870166.html)~~
 
 ~~【报名截止：2023.9.14】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202308/t20230828_6868083.html)~~
 
@@ -134,7 +134,7 @@
 
 【报名截止：2023.9.20】[网络空间安全学院](https://cst.buaa.edu.cn/info/1102/3123.htm)
 
-【报名截止：2023.9.18】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10682)
+~~【报名截止：2023.9.18】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10682)~~
 
 # 同济大学
 
@@ -142,7 +142,7 @@
 
 【报名截止：2023.9.24】[软件学院-第二批](https://sse.tongji.edu.cn/info/1132/4524.htm)
 
-【报名截止：2023.9.18】[同济大学2024年“国优计划”研究生招生通知暨考核办法（推免选拔）](https://yz.tongji.edu.cn/info/1010/3231.htm)
+~~【报名截止：2023.9.18】[同济大学2024年“国优计划”研究生招生通知暨考核办法（推免选拔）](https://yz.tongji.edu.cn/info/1010/3231.htm)~~
 
 ~~【报名截止：2023.9.18】[软件学院-第一批](https://sse.tongji.edu.cn/info/1132/4524.htm)~~
 
@@ -168,7 +168,7 @@
 
 【报名截止：2023.9.21】[电子与信息学部 软件学院](http://se.xjtu.edu.cn/info/1043/2631.htm)
 
-【报名截止：2023.9.18】[电子与信息学部 人工智能学院](http://www.aiar.xjtu.edu.cn/info/1005/2886.htm)
+~~【报名截止：2023.9.18】[电子与信息学部 人工智能学院](http://www.aiar.xjtu.edu.cn/info/1005/2886.htm)~~
 
 # 西北工业大学
 
@@ -286,7 +286,7 @@
 
 # 哈尔滨工程大学
 
-【报名截止：2023.9.18】[智能科学与工程学院](http://cisse.hrbeu.edu.cn/info/1275/4683.htm)
+~~【报名截止：2023.9.18】[智能科学与工程学院](http://cisse.hrbeu.edu.cn/info/1275/4683.htm)~~
 
 ~~【报名截止：2023.9.15】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0908/c3688a315209/page.htm)~~
 
@@ -346,7 +346,7 @@
 
 # 南京航空航天大学
 
-【报名截止：2023.9.18】[计算机科学与技术学院/人工智能学院/软件学院](http://cs.nuaa.edu.cn/2023/0707/c10851a315084/page.htm)
+~~【报名截止：2023.9.18】[计算机科学与技术学院/人工智能学院/软件学院](http://cs.nuaa.edu.cn/2023/0707/c10851a315084/page.htm)~~
 
 # 中国农业大学
 
@@ -354,7 +354,7 @@
 
 # 中国矿业大学
 
-【报名截止：2023.9.18】 [计算机科学与技术学院/信息与控制工程学院](https://mp.weixin.qq.com/s/OpLsjN01AslCc55pKJItnQ)
+~~【报名截止：2023.9.18】 [计算机科学与技术学院/信息与控制工程学院](https://mp.weixin.qq.com/s/OpLsjN01AslCc55pKJItnQ)~~
 
 # 河北工业大学
 
