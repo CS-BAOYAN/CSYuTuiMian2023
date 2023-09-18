@@ -140,9 +140,11 @@
 
 > https://yz.tongji.edu.cn/info/1010/3228.htm
 
-【报名截止：2023.9.18】[软件学院](https://sse.tongji.edu.cn/info/1132/4524.htm) 第二批截止时间2023.9.24
+【报名截止：2023.9.24】[软件学院-第二批](https://sse.tongji.edu.cn/info/1132/4524.htm)
 
 【报名截止：2023.9.18】[同济大学2024年“国优计划”研究生招生通知暨考核办法（推免选拔）](https://yz.tongji.edu.cn/info/1010/3231.htm)
+
+~~【报名截止：2023.9.18】[软件学院-第一批](https://sse.tongji.edu.cn/info/1132/4524.htm)~~
 
 ~~【报名截止：2023.9.15】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11802.htm)~~
 
@@ -159,6 +161,8 @@
 # 西安交通大学
 
 > https://yz.xjtu.edu.cn/info/1086/3851.htm
+
+【报名截止：2023.9.24】[电子与信息学部 网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1841.htm)
 
 【报名截止：2023.9.22】[电子与信息学部 计算机学院](http://www.cs.xjtu.edu.cn/info/1233/3220.htm)
 
@@ -199,6 +203,8 @@
 【报名截止：2023.9.20】[计算机学院-博士](https://www.cs.sdu.edu.cn/info/1068/5967.htm)
 
 【报名截止：2023.9.20】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4204.htm)
+
+【报名截止：2023.9.20】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/2811.htm)
 
 # 中山大学
 
