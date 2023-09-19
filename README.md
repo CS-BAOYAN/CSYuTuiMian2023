@@ -165,7 +165,7 @@
 
 # 北京邮电大学
 
-> https://yzb.bupt.edu.cn/content/content.php?p=8_4_578 [招生目录](https://yzb.bupt.edu.cn/content/content.php?p=8_4_65)
+> https://yzb.bupt.edu.cn/content/content.php?p=8_4_578 [招生专业目录](https://yzb.bupt.edu.cn/content/content.php?p=8_4_65)
 
 # 西安交通大学
 
