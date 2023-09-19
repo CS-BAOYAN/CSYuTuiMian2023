@@ -96,13 +96,13 @@
 
 【报名截止：2023.9.21】[杭州高等研究院 智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1583.htm)
 
-【报名截止：2023.9.19】[自动化研究所-第二批](http://www.ia.cas.cn/yjsjy/zs/sszs/202309/t20230911_6877779.html)
-
 【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
 【报名截止：N/A】[空天信息创新研究院-微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
 
 【报名截止：N/A】[空天信息创新研究院-空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
+
+~~【报名截止：2023.9.19】[自动化研究所-第二批](http://www.ia.cas.cn/yjsjy/zs/sszs/202309/t20230911_6877779.html)~~
 
 ~~【报名截止：2023.9.18】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202309/t20230901_6870166.html)~~
 
@@ -176,7 +176,7 @@
 
 # 华中科技大学
 
-【报名截止：预计9月中旬】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+【报名截止：2023.9.21】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
 2023.9.23-2023.9.24
 
 # 厦门大学
@@ -207,6 +207,8 @@
 【报名截止：2023.9.20】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/2811.htm)
 
 # 中山大学
+
+【报名截止：2023.9.20】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1411004.htm)
 
 【报名截止：2023.9.19】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1410954.htm)
 
