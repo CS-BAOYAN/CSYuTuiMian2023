@@ -266,6 +266,10 @@
 
 【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
 
+# 北京工业大学
+
+> https://yanzhao.bjut.edu.cn/info/1019/6584.htm
+
 # 北京交通大学
 
 > https://gs.bjtu.edu.cn/cms/zszt/item/2867.html
@@ -276,13 +280,7 @@
 
 # 西南交通大学
 
-【报名截止：2023.9.25】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1145/4244.htm)
-
 【报名截止：2023.9.20】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=03da2884-f0b7-461a-a725-5a8e474e2602)
-
-# 北京工业大学
-
-> https://yanzhao.bjut.edu.cn/info/1019/6584.htm
 
 # 哈尔滨工程大学
 
@@ -313,6 +311,10 @@
 # 郑州大学
 
 【报名截止：2023.9.24】[网络空间安全学院](http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec8878f9f6f018a78ade81203fe)
+
+# 西南大学
+
+【报名截止：2023.9.25】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1145/4244.htm)
 
 # 暨南大学
 
