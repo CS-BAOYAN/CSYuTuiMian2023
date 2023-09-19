@@ -158,6 +158,21 @@
 
 ~~【报名截止：2023.7.18】[计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
+# 四川大学
+
+> 计算机学院（软件学院 智能科学与技术学院） 2024年接收推荐免试攻读硕士学位研究生和直接攻读博士学位研究生简章
+>
+> https://cs.scu.edu.cn/info/1247/17926.htm
+
+# 北京邮电大学
+
+> 北京邮电大学2024年推荐免试攻读硕士研究生的接收办法
+> https://yzb.bupt.edu.cn/content/content.php?p=8_4_578
+>
+> 各个学院招生目录
+>
+> https://yzb.bupt.edu.cn/content/content.php?p=8_4_65
+
 # 西安交通大学
 
 > https://yz.xjtu.edu.cn/info/1086/3851.htm
