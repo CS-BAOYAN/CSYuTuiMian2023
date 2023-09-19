@@ -158,6 +158,15 @@
 
 ~~【报名截止：2023.7.18】[计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
+# 四川大学
+
+【报名截止：2023.9.23】[计算机学院（软件学院 智能科学与技术学院）](https://cs.scu.edu.cn/info/1247/17926.htm)
+2023.9.27前
+
+# 北京邮电大学
+
+> https://yzb.bupt.edu.cn/content/content.php?p=8_4_578 [招生专业目录](https://yzb.bupt.edu.cn/content/content.php?p=8_4_65)
+
 # 西安交通大学
 
 > https://yz.xjtu.edu.cn/info/1086/3851.htm
