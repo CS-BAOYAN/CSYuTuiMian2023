@@ -76,7 +76,7 @@
 
 # 中国科学技术大学
 
-> https://yz.ustc.edu.cn/article/2659/176?num=-1
+> https://yz.ustc.edu.cn/article/2659/176
 
 【报名截止：2023.9.25】[先进技术研究院](https://iat.ustc.edu.cn/iat/x198/20230912/6496.html)
 
@@ -158,10 +158,16 @@
 
 ~~【报名截止：2023.7.18】[计算学部](http://computing.hit.edu.cn/2023/0713/c11271a320736/page.htm)~~
 
+# 电子科技大学
+
+【报名截止：2023.9.22】[计算机科学与工程学院（网络空间安全学院）](https://www.scse.uestc.edu.cn/info/1015/14227.htm)
+
 # 四川大学
 
 【报名截止：2023.9.23】[计算机学院（软件学院 智能科学与技术学院）](https://cs.scu.edu.cn/info/1247/17926.htm)
 2023.9.27前
+
+【报名截止：2023.9.22】[四川大学网络空间安全学院/研究院](https://cs.scu.edu.cn/info/1247/17926.htm)
 
 # 北京邮电大学
 
@@ -185,8 +191,16 @@
 
 # 华中科技大学
 
-【报名截止：2023.9.21】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+> http://gszs.hust.edu.cn/info/1106/3680.htm
+
+【报名截止：2023.9.21】[计算机学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
 2023.9.24
+
+# 武汉大学
+
+【报名截止：2023.9.23】[国家网络安全学院](https://cse.whu.edu.cn/info/1101/21822.htm)
+
+【报名截止：2023.9.21】[计算机科学与技术学院](https://cs.whu.edu.cn/info/1055/35461.htm)
 
 # 厦门大学
 
@@ -219,7 +233,7 @@
 
 【报名截止：2023.9.20】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1411004.htm)
 
-【报名截止：2023.9.19】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1410954.htm)
+~~【报名截止：2023.9.19】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1410954.htm)~~
 
 ~~【报名截止：2023.9.15】[软件工程学院](https://sse.sysu.edu.cn/article/605)~~
 
@@ -329,7 +343,7 @@
 
 # 暨南大学
 
-【报名截止：2023.9.19】[2024年接收全国高校优秀应届本科推免生报名公告](https://xxxy.jnu.edu.cn/2023/0912/c27463a764107/page.htm)
+~~【报名截止：2023.9.19】[2024年接收全国高校优秀应届本科推免生报名公告](https://xxxy.jnu.edu.cn/2023/0912/c27463a764107/page.htm)~~
 
 # 西湖大学
 
