@@ -128,11 +128,11 @@
 
 > https://yzb.buaa.edu.cn/info/1036/2881.htm
 
-【报名截止：2023.9.20】[计算机学院](https://scse.buaa.edu.cn/info/1299/10382.htm)
+~~【报名截止：2023.9.20】[计算机学院](https://scse.buaa.edu.cn/info/1299/10382.htm)~~
 
-【报名截止：2023.9.20】[人工智能研究院](https://iai.buaa.edu.cn/info/1024/2741.htm)
+~~【报名截止：2023.9.20】[人工智能研究院](https://iai.buaa.edu.cn/info/1024/2741.htm)~~
 
-【报名截止：2023.9.20】[网络空间安全学院](https://cst.buaa.edu.cn/info/1102/3123.htm)
+~~【报名截止：2023.9.20】[网络空间安全学院](https://cst.buaa.edu.cn/info/1102/3123.htm)~~
 
 ~~【报名截止：2023.9.18】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10682)~~
 
@@ -187,7 +187,7 @@
 
 # 西北工业大学
 
-【报名截止：2023.9.20】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/20385.htm)
+~~【报名截止：2023.9.20】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/20385.htm)~~
 
 # 华中科技大学
 
@@ -221,17 +221,17 @@
 
 # 山东大学
 
-【报名截止：2023.9.20】[计算机学院-硕士](https://www.cs.sdu.edu.cn/info/1068/5964.htm)
+~~【报名截止：2023.9.20】[计算机学院-硕士](https://www.cs.sdu.edu.cn/info/1068/5964.htm)~~
 
-【报名截止：2023.9.20】[计算机学院-博士](https://www.cs.sdu.edu.cn/info/1068/5967.htm)
+~~【报名截止：2023.9.20】[计算机学院-博士](https://www.cs.sdu.edu.cn/info/1068/5967.htm)~~
 
-【报名截止：2023.9.20】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4204.htm)
+~~【报名截止：2023.9.20】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4204.htm)~~
 
-【报名截止：2023.9.20】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/2811.htm)
+~~【报名截止：2023.9.20】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/2811.htm)~~
 
 # 中山大学
 
-【报名截止：2023.9.20】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1411004.htm)
+~~【报名截止：2023.9.20】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1411004.htm)~~
 
 ~~【报名截止：2023.9.19】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1410954.htm)~~
 
@@ -263,7 +263,7 @@
 
 > http://yzb.tju.edu.cn/xwzx/zxxx/202307/t20230715_323276.htm
 
-【报名截止：2023.9.20】[智能与计算学部-博士](http://cic.tju.edu.cn/info/1041/4613.htm)
+~~【报名截止：2023.9.20】[智能与计算学部-博士](http://cic.tju.edu.cn/info/1041/4613.htm)~~
 
 ~~【报名截止：2023.9.15】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4087)~~
 
@@ -289,7 +289,7 @@
 
 【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
 
-【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)
+~~【报名截止：2023.9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/11834.html)~~
 
 # 北京工业大学
 
@@ -301,11 +301,11 @@
 
 【报名截止：2023.9.23】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5266.html)
 
-【报名截止：2023.9.20】[软件学院](http://rjxy.bjtu.edu.cn/cms/item/955.html)
+~~【报名截止：2023.9.20】[软件学院](http://rjxy.bjtu.edu.cn/cms/item/955.html)~~
 
 # 西南交通大学
 
-【报名截止：2023.9.20】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=03da2884-f0b7-461a-a725-5a8e474e2602)
+~~【报名截止：2023.9.20】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=03da2884-f0b7-461a-a725-5a8e474e2602)~~
 
 # 哈尔滨工程大学
 
@@ -321,7 +321,7 @@
 
 # 苏州大学
 
-【报名截止：2023.9.20】[苏州大学关于接收2024年“国优计划”推荐免试研究生工作的通知](http://yjs.suda.edu.cn/4f/38/c8365a544568/page.htm)
+~~【报名截止：2023.9.20】[苏州大学关于接收2024年“国优计划”推荐免试研究生工作的通知](http://yjs.suda.edu.cn/4f/38/c8365a544568/page.htm)~~
 
 ~~【报名截止：2023.9.6】[计算机科学与技术学院 第二批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)~~
 2023.9.13
@@ -357,7 +357,7 @@
 
 # 上海科技大学
 
-【报名截止：2023.9.20】[临港实验室2023年“身‘临’其境”大学生开放日](https://mp.weixin.qq.com/s/qIRE-inULLPf4H7DLm4e8Q)
+~~【报名截止：2023.9.20】[临港实验室2023年“身‘临’其境”大学生开放日](https://mp.weixin.qq.com/s/qIRE-inULLPf4H7DLm4e8Q)~~
 
 # 西南财经大学
 
