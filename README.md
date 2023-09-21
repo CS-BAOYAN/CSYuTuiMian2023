@@ -96,6 +96,8 @@
 
 【报名截止：2023.9.21】[杭州高等研究院 智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1583.htm)
 
+【报名截止：2023.9.21】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/O1l9wqfUrKD2oUfrM8Pqew)
+
 【报名截止：N/A】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
 【报名截止：N/A】[空天信息创新研究院-微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
@@ -193,8 +195,16 @@
 
 > http://gszs.hust.edu.cn/info/1106/3680.htm
 
+【报名截止：2023.9.23】[软件学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+
+【报名截止：2023.9.22】[人工智能与自动化学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+
+【报名截止：2023.9.21】[网络空间安全学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+
 【报名截止：2023.9.21】[计算机学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
 2023.9.24
+
+【报名截止：2023.9.21】[武汉光电国家研究中心](http://www.cs.hust.edu.cn/info/1439/3296.htm)
 
 # 武汉大学
 
@@ -252,6 +262,8 @@
 # 大连理工大学
 
 > http://gs.dlut.edu.cn/info/1173/13435.htm
+
+~~【报名截止：2023.9.20】[软件学院](http://ss.dlut.edu.cn/info/1122/23748.htm)~~
 
 # 中国海洋大学
 
