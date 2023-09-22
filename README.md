@@ -177,6 +177,8 @@
 
 【报名截止：2023.9.26】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3610.htm)
 
+【报名截止：N/A】[2024年人工智能学院硕士研究生招生导师信息](https://ai.bupt.edu.cn/info/1065/2953.htm)
+
 # 西安交通大学
 
 > https://yz.xjtu.edu.cn/info/1086/3851.htm
@@ -281,6 +283,8 @@
 
 【报名截止：N/A】[计算机学院、网络空间安全学院](https://cyber.nankai.edu.cn/2023/0615/c13348a514888/page.htm)
 
+~~【报名截止：2023.9.12】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5442.htm)~~
+
 # 天津大学
 
 > http://yzb.tju.edu.cn/xwzx/zxxx/202307/t20230715_323276.htm
@@ -298,6 +302,12 @@
 # 国防科技大学
 
 > https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13138
+
+【报名截止：2023.9.22】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13247)
+
+【报名截止：2023.9.22】[前沿交叉学科学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13246)
+
+【报名截止：2023.9.22】[信息通信学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13351)
 
 # 中国农业大学
 
