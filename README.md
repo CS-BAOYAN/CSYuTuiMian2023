@@ -367,7 +367,9 @@
 
 # 上海大学
 
-> https://mp.weixin.qq.com/s/wS8-O23oJq_BvA2kxE7J5w
+> https://yjszs.shu.edu.cn/info/1004/6684.htm
+
+【报名截止：N/A】[计算机工程与科学学院](https://cs.shu.edu.cn/info/1211/21054.htm)
 
 # 郑州大学
 
