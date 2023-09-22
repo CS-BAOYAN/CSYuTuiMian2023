@@ -315,7 +315,7 @@
 
 【报名截止：2023.9.23】[计算机学院](https://yz.cqu.edu.cn/news/2023-09/2036.html)
 
-【报名截止：2023.9.23】[大数据与软件学院](https://yz.cqu.edu.cn/news/2023-09/2049.html)
+【报名截止：2023.9.25】[大数据与软件学院](https://yz.cqu.edu.cn/news/2023-09/2049.html)
 
 ~~【报名截止：2023.9.17】[国家卓越工程师学院](https://mp.weixin.qq.com/s/j8F_KSKBH7tuctmNHJU98w)~~
 
