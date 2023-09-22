@@ -80,9 +80,9 @@
 
 【报名截止：2023.9.25】[先进技术研究院](https://iat.ustc.edu.cn/iat/x198/20230912/6496.html)
 
-【报名截止：2023.9.21】[信息科学技术学院自动化系（10系）](https://auto.ustc.edu.cn/2023/0908/c26085a611629/page.htm)
-
 【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
+
+~~【报名截止：2023.9.21】[信息科学技术学院自动化系（10系）](https://auto.ustc.edu.cn/2023/0908/c26085a611629/page.htm)~~
 
 ~~【报名截止：2023.9.20】[信息科学技术学院电子工程与信息科学系（6系）](https://eeis.ustc.edu.cn/2023/0908/c2702a611626/page.htm)~~
 
@@ -94,13 +94,13 @@
 
 【报名截止：2023.9.24】[微小卫星创新研究院](http://www.microsate.ac.cn/yajsjy/sszsxx/202308/t20230817_6862157.html)
 
-【报名截止：2023.9.21】[杭州高等研究院 智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1583.htm)
-
 【报名截止：预计9月上中旬】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202309/t20230908_6876915.html)
 
 【报名截止：N/A】[空天信息创新研究院-微波成像技术国家级重点实验室（一室）](https://mp.weixin.qq.com/s/DIYXKpfJ30bNMlDSehkU5w)
 
 【报名截止：N/A】[空天信息创新研究院-空间信息处理与应用系统技术重点实验室（八室）](https://mp.weixin.qq.com/s/LbyQtqqrqmj46V12l5HKBg)
+
+~~【报名截止：2023.9.21】[杭州高等研究院 智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1583.htm)~~
 
 ~~【报名截止：2023.9.21】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/O1l9wqfUrKD2oUfrM8Pqew)~~
 
@@ -185,7 +185,7 @@
 
 【报名截止：2023.9.22】[电子与信息学部 计算机学院](http://www.cs.xjtu.edu.cn/info/1233/3220.htm)
 
-【报名截止：2023.9.21】[电子与信息学部 软件学院](http://se.xjtu.edu.cn/info/1043/2631.htm)
+~~【报名截止：2023.9.21】[电子与信息学部 软件学院](http://se.xjtu.edu.cn/info/1043/2631.htm)~~
 
 ~~【报名截止：2023.9.18】[电子与信息学部 人工智能学院](http://www.aiar.xjtu.edu.cn/info/1005/2886.htm)~~
 
@@ -201,18 +201,18 @@
 
 【报名截止：2023.9.22】[人工智能与自动化学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
 
-【报名截止：2023.9.21】[网络空间安全学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+~~【报名截止：2023.9.21】[网络空间安全学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)~~
 
-【报名截止：2023.9.21】[计算机学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+~~【报名截止：2023.9.21】[计算机学院](http://www.cs.hust.edu.cn/info/1439/3296.htm)~~
 2023.9.24
 
-【报名截止：2023.9.21】[武汉光电国家研究中心](http://www.cs.hust.edu.cn/info/1439/3296.htm)
+~~【报名截止：2023.9.21】[武汉光电国家研究中心](http://www.cs.hust.edu.cn/info/1439/3296.htm)~~
 
 # 武汉大学
 
 【报名截止：2023.9.23】[国家网络安全学院](https://cse.whu.edu.cn/info/1101/21822.htm)
 
-【报名截止：2023.9.21】[计算机科学与技术学院](https://cs.whu.edu.cn/info/1055/35461.htm)
+~~【报名截止：2023.9.21】[计算机科学与技术学院](https://cs.whu.edu.cn/info/1055/35461.htm)~~
 
 # 厦门大学
 
