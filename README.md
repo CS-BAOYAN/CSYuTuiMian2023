@@ -78,9 +78,9 @@
 
 > https://yz.ustc.edu.cn/article/2659/176
 
-【报名截止：2023.9.25】[先进技术研究院](https://iat.ustc.edu.cn/iat/x198/20230912/6496.html)
-
 【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
+
+~~【报名截止：2023.9.25】[先进技术研究院](https://iat.ustc.edu.cn/iat/x198/20230912/6496.html)~~
 
 ~~【报名截止：2023.9.21】[信息科学技术学院自动化系（10系）](https://auto.ustc.edu.cn/2023/0908/c26085a611629/page.htm)~~
 
@@ -146,7 +146,7 @@
 
 > https://yzb.bupt.edu.cn/content/content.php?p=8_4_578
 
-【报名截止：2023.9.26】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3610.htm)
+~~【报名截止：2023.9.26】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3610.htm)~~
 
 【报名截止：N/A】[2024年人工智能学院硕士研究生招生导师信息](https://ai.bupt.edu.cn/info/1065/2953.htm)
 
@@ -343,9 +343,9 @@
 
 # 西安电子科技大学
 
-【报名截止：2023.9.25】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/15929.htm)
+~~【报名截止：2023.9.25】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/15929.htm)~~
 
-【报名截止：2023.9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9261.htm)
+~~【报名截止：2023.9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9261.htm)~~
 
 ~~【报名截止：2023.9.23】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)~~
 
@@ -401,7 +401,7 @@
 
 # 西南大学
 
-【报名截止：2023.9.25】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1145/4244.htm)
+~~【报名截止：2023.9.25】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1145/4244.htm)~~
 
 # 暨南大学
 
