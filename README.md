@@ -1,6 +1,6 @@
 # CSYuTuiMian2023
 
-关于**2023年CS保研预推免通知公告**的汇总。欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？（本仓库将随各校通知的发布实时更新，具体形式可参见往年：[CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)、[CSYuTuiMian2021](https://github.com/RookieJunChen/CSYuTuiMian2021)、[CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020)。预祝大家夏令营成功上岸！
+关于**2023年CS保研预推免通知公告**的汇总。欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？（本仓库将随各校通知的发布实时更新，具体形式可参见往年：[CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)、[CSYuTuiMian2021](https://github.com/RookieJunChen/CSYuTuiMian2021)、[CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020)。预祝大家预推免成功上岸！
 
 另附[【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)，请使用**加入了绿群的QQ号登录以查看文档，无须申请权限**。
 
@@ -78,7 +78,7 @@
 
 > https://yz.ustc.edu.cn/article/2659/176
 
-【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)
+~~【报名截止：N/A】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/page.htm)~~
 
 ~~【报名截止：2023.9.25】[先进技术研究院](https://iat.ustc.edu.cn/iat/x198/20230912/6496.html)~~
 
@@ -197,7 +197,7 @@
 
 > https://yzb.nankai.edu.cn/2023/0921/c2583a520742/page.htm
 
-【报名截止：N/A】[计算机学院、网络空间安全学院](https://cyber.nankai.edu.cn/2023/0615/c13348a514888/page.htm)
+~~【报名截止：N/A】[计算机学院、网络空间安全学院](https://cyber.nankai.edu.cn/2023/0615/c13348a514888/page.htm)~~
 
 ~~【报名截止：2023.9.12】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5442.htm)~~
 
